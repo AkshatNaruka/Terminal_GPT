@@ -10,7 +10,7 @@ Terminal_GPT is an interactive chatbot that uses OpenAI's ChatGPT model. It allo
 ## Installation
 1. Clone the repository:
 
-```git clone https://github.com/your-username/terminal-gpt.git```
+```git clone https://github.com/AkshatNaruka/terminal-gpt.git```
 
 ```cd terminal-gpt```
 
